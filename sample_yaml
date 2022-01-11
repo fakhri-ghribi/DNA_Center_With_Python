@@ -1,0 +1,9 @@
+interface:
+  addresses:
+  - decription: Wide Area Network
+    enabled: true
+    ipv4:
+    - ip: 192.168.5.2
+      netmask: 255.255.255.0
+    name: GigabitEthernet1
+  name: GigabitEthenert1

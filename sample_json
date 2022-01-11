@@ -1,0 +1,1 @@
+{"interface": {"name": "GigabitEthernet1", "description": "Wide Area Network", "enabled": "True", "ipv4": [{"ip": "192.168.10.3", "netmask": "255.255.255.0"}], "enable": "False"}}
